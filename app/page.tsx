@@ -76,7 +76,13 @@ export default function Home() {
           <p>Instantly deploy your Next.js site to a shareable URL with Vercel.</p>
         </a>
       </div>
-      <FarcasterEmbed url="http://warpcast.com/pugson/0x4294c797" />
+      <FarcasterEmbed url="https://warpcast.com/ted/0x04120d5229da58daad8598ca6b7d79390cc40a68" />
+      <FarcasterEmbed url="https://warpcast.com/pugson/0x234aa6ed" />
+      <FarcasterEmbed url="https://warpcast.com/pugson/0x1c80519c" />
+      <FarcasterEmbed url="https://warpcast.com/builderszn/0xb488423d" />
+      <FarcasterEmbed username="dwr" hash="0x48d47343" />
+      <FarcasterEmbed url="https://warpcast.com/beecurious/0x7b243321" />
+      <FarcasterEmbed url="https://warpcast.com/linda/0xa8fc16d13e235ab164dabc24d75e24ae62eacc05" />
     </main>
   );
 }
